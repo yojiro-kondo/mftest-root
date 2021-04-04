@@ -1,0 +1,12 @@
+.material-icons.fa {
+  display: inline-table;
+}
+.single-spa-main {
+  display: flex;
+}
+.single-spa-menu {
+  width: 200px;
+}
+.single-spa-content {
+  flex-grow: 1;
+}
